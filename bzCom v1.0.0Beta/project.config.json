@@ -1,0 +1,12 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx8f0ac8eec3d1bb66",
+	"projectname": "bzComv1.0.0Beta",
+	"condition": {}
+}

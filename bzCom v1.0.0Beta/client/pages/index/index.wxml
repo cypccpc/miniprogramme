@@ -1,0 +1,6 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+  
+  <button class="btn" type="primary" bindtap='userLogin'>登录</button>
+  <text>用户名称：{{username}}</text>
+</view>

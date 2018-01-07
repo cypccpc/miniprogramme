@@ -1,0 +1,10 @@
+.container {
+  height: 100%;
+  padding: 100rpx 100rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  margin: 20rpx;
+}
